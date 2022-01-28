@@ -1,2 +1,2 @@
-# simple-calculator
-Simple calculator
+# Advanced-calculator
+Advanced calculator
